@@ -13,8 +13,7 @@ Also, the website allows anyone to join a dog sitter role to make extra money.
 * Back-End: AWS S3, Express, MongoDB, Mongoose, Passport, JWT, Stripe, Socket.io
 
 # Authors
-[Shawn Ohn](https://github.com/shawnohn)
-[Tongil Kim](https://github.com/TongilKim)
+[Tongil Kim](https://github.com/TongilKim) & [Shawn Ohn](https://github.com/shawnohn)
 
 # Features
 * **_Authentication_**: Login, Signup
