@@ -1,4 +1,4 @@
-# Dog Sitter Seek App
+# Dog Sitting Service App
 **_Contents:_**
 * [About](#About)
 * [Authors](#Authors)
